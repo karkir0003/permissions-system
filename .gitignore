@@ -1,0 +1,47 @@
+# OS & Editor files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+
+# Build artifacts
+bin/
+test_runner
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.venv/
+env/
+venv/
+dist/
+build/
+.pytest_cache/
+
+# Java
+*.class
+*.war
+*.ear
+*.jar
+!java/lib/*.jar
+
+# C / C++
+*.o
+*.obj
+*.out
+a.out
+*.dSYM/
+
+# Node / JavaScript
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*

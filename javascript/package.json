@@ -1,0 +1,13 @@
+{
+  "name": "permissions-system",
+  "version": "1.0.0",
+  "description": "Permissions Management System - AI Assisted Design",
+  "main": "permissions/index.js",
+  "scripts": {
+    "start": "node tests/test_runner.js",
+    "test": "node tests/test_runner.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
