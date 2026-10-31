@@ -1,2 +1,4 @@
-# permissions-system
-Permissions System that might be used in a company
+# Permissions System - AI Assisted Design
+
+Welcome to the Permissions Platform AI Assisted design round!
+
